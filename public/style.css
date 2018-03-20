@@ -9,7 +9,8 @@ td, th {
 }
 
 td.operator {
-  background-color: grey;
+  background-color: purple;
+
 }
 
 td.operator:hover {
